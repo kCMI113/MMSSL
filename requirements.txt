@@ -1,0 +1,8 @@
+torch
+torchdata==0.6.0
+dgl
+pyyaml
+pydantic
+visdom
+tensorboard
+scikit-learn
